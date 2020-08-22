@@ -36,14 +36,14 @@ export default function Projects() {
                     <div></div>
                     <span>2020</span>
                     <p>Restaurant/Food Delivery WebApp</p>
-                    <i>NB: This is a personal projects and therefore serve as templates rather than a fully functional website</i>
+                    <i>NB: This is a personal project and therefore serve as template rather than a fully functional website</i>
                     </a>
                     <a href="https://elpapi.herokuapp.com" className={projectsStyles.project4}>
                     <img src={mockUp4} alt=""/>
                     <div></div>
                     <span>2020</span>
                     <p>Award/Nominee WebApp</p>
-                    <i>NB: This is a personal projects and therefore serve as templates rather than a fully functional website</i>
+                    <i>NB: This is a personal project and therefore serve as template rather than a fully functional website</i>
                     </a>
                 </div>
                 <div className={projectsStyles.moreOnGithub}>
