@@ -4,8 +4,8 @@
 }
 #emailMe {
   position: fixed;
-  bottom: 10px;
-  left: 10px;
+  bottom: 2%;
+  right: 20px;
   z-index: 200;
   opacity: 0;
 }
@@ -27,10 +27,6 @@
   box-sizing: border-box;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
 ul {
   list-style: none;
 }
@@ -84,6 +80,6 @@ a:hover, a:focus, a:active, a.active {
     padding: 20px;
   }
   #emailMe {
-    left: 18px;
+    right: 30px;
   }
 }

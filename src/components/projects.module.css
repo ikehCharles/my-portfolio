@@ -60,6 +60,9 @@
 .project1:hover p, .project2:hover p, .project3:hover p, .project4:hover p,.project1:hover span, .project2:hover span, .project3:hover span, .project4:hover span {
     opacity: 1;
 }
+.project3:hover i, .project4:hover i {
+    opacity: 1;
+}
 
 .moreOnGithub, .moreOnBehance {
     margin-top: 15px;
@@ -74,6 +77,14 @@
     font-size: 17px;
     transition: 1.5s all;
 }
+.webApp i,.ui i {
+    position: absolute;
+    bottom: 0px;
+    left: 1%;
+    color: rgb(238, 237, 237);
+    font-size: 12px;
+    transition: 1.5s all;
+}
 .webApp span,.ui span {
     position: absolute;
     top: 2%;
@@ -82,6 +93,9 @@
     opacity: .6;
     font-size: 14px;
     transition: 1.5s all;
+    border-radius: 50%;
+    border: 1px solid rgba(255, 255, 255, 0.246);
+    padding: 10px 5px;
 }
 .moreOnBehance a, .moreOnGithub a {
     font-size: 1.4em;
@@ -127,5 +141,8 @@
         height: 0;
         top: 100%;
         background-color: rgba(0, 0, 0, 0.616);
+    }
+    .webApp i,.ui i {
+        opacity: 0;
     }
 }

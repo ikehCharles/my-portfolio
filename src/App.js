@@ -13,7 +13,7 @@ import Footer from './components/footer';
 
 function App() {
   useEffect(() => {
-    document.getElementById('loader').classList.add('remove')
+    document.getElementById('loader').classList.add('remove');
   })
   
   let [contentState, setContent] = useState('content slideContent');
@@ -41,12 +41,20 @@ function App() {
       }
     }
   });
+  const slideToContact= (e)=>{
+    e.preventDefault();
+    const contactLoc= document.body.scrollHeight
+    window.scroll({
+      top: contactLoc,
+      behavior: "smooth"
+    })
+  }
 
   return (
     <div id="App" className="App">
       <div id="emailMe" title="email Me">
         <div>
-        <a href='mailto:ikehcharles.ci@gmail.com'>
+        <a onClick={slideToContact} href='#contact'>
           <i className="fas fa-envelope"></i>
         </a>
         </div>
