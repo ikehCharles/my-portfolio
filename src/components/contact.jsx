@@ -19,8 +19,8 @@ export default function Contact() {
             <div className={contactStyles.contactSection}>
                 <div className={contactStyles.contact}>
                     <h2>Contact Information</h2>
-                    <p>Feel free to reach to me any time. I prefer to talk
-                        over email, especially since we may be a few time zones away
+                    <p>Feel free to reach me at any time. I prefer to talk
+                        over email, especially since we may be a few time zones away.
                     </p>
                     <div>
                         <p>Email: <a href='mailto:ikehcharles.ci@gmail.com'> ikehcharlesci@gmail.com</a></p>
