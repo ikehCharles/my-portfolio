@@ -1,0 +1,89 @@
+.remove {
+  opacity: 0;
+  transform: translateY(-1000px);
+}
+#emailMe {
+  position: fixed;
+  bottom: 10px;
+  left: 10px;
+  z-index: 200;
+  opacity: 0;
+}
+#emailMe div {
+  border-radius: 50%;
+  background-color: rgba(0, 0, 0, 0.253);
+  padding: 10px;
+}
+#emailMe .fa-envelope {
+  font-size: 18px;
+  color: rgba(0, 0, 0, 0.63)
+}
+.App {
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+  overflow: hidden;
+}
+* {
+  box-sizing: border-box;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+ul {
+  list-style: none;
+}
+a {
+  text-decoration: none;
+  color: rgba(0, 0, 0, 0.753);
+}
+a:hover, a:focus, a:active, a.active {
+  color: black;
+}
+.content {
+  margin: 10px 0;
+  transition: 2s all;
+}
+.slideContent {
+  transform: translateY(80px);
+  opacity: 0;
+}
+.enlargeImage {
+  position: fixed;
+  top: 0;
+  background-color: rgba(0, 0, 0, 0.801);
+  width: 100%;
+  height: 100%;
+}
+.enlargeImage img {
+  margin-top: 100px;
+  width: 900px;
+  height: 540px;
+}
+.enlargeImage p {
+  position: absolute;
+  top: 60px;
+  left: 220px;
+  color: white;
+  font-size: 24px;
+  cursor: pointer;
+}
+.hideIncImage {
+  display: none;
+}
+#project, #about, #contact {
+  padding: 15px;
+}
+@media(min-width: 768px){
+  .content {
+    margin: 20px 0;
+    transition: 3s all;
+  }
+  #project, #about {
+    padding: 20px;
+  }
+  #emailMe {
+    left: 18px;
+  }
+}

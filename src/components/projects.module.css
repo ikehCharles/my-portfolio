@@ -1,0 +1,131 @@
+.ui {
+    margin: 10px 0;
+}
+.ui h4 {
+    font-size: 1.4em;
+    text-align: left;
+    margin: 10px 0;
+    margin-bottom: 15px;
+    opacity: .8;
+}
+.ui h3 {
+    font-size: 1.3em;
+    margin-bottom: 10px;
+    text-align: left;
+    opacity: .6;
+    font-weight: 500;
+    letter-spacing: 2px;
+}
+.ui h1 {
+    margin-bottom: 40px;
+    text-align: left;
+    font-size: 3em;
+    margin-top: 5px;
+}
+.uiProjects, .webApp {
+    display: flex;
+    flex-direction: column;
+}
+.project1, .project2, .project3, .project4 {
+    position: relative;
+    height: 300px;
+    margin: 10px 0;
+    transition: 0.9s all;
+}
+.project1 img, .project2 img, .project3 img, .project4 img {
+    width: 100%;
+    height: 100%;
+    border-radius: .3em;
+}
+.project1:hover, .project2:hover, .project3:hover, .project4:hover {
+    transform: scale(1.03);
+    cursor: pointer;
+}
+.project1 div, .project2 div, .project3 div, .project4 div {
+    position: absolute;
+    top: 0%;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.212);
+    transition: .6s all;
+    opacity: 1;
+}
+.project1:hover div, .project2:hover div, .project3:hover div, .project4:hover div {
+    position: absolute;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    opacity: 1;
+}
+.project1:hover p, .project2:hover p, .project3:hover p, .project4:hover p,.project1:hover span, .project2:hover span, .project3:hover span, .project4:hover span {
+    opacity: 1;
+}
+
+.moreOnGithub, .moreOnBehance {
+    margin-top: 15px;
+    margin-bottom: 50px;
+
+}
+.webApp p,.ui p {
+    position: absolute;
+    top: -10px;
+    left: 3%;
+    color: rgb(238, 237, 237);
+    font-size: 17px;
+    transition: 1.5s all;
+}
+.webApp span,.ui span {
+    position: absolute;
+    top: 2%;
+    right: 3%;
+    color: white;
+    opacity: .6;
+    font-size: 14px;
+    transition: 1.5s all;
+}
+.moreOnBehance a, .moreOnGithub a {
+    font-size: 1.4em;
+    opacity: 0.9;
+    transition: 0.4s all;
+    cursor: pointer;
+    font-weight: 700;
+}
+.moreOnBehance a:hover, .moreOnGithub a:hover {
+    opacity: 1;
+    transform: scale(1.03);
+}
+
+@media(min-width: 700px){
+    .project1, .project2, .project3, .project4{
+        height: 500px;
+    }
+}
+@media(min-width: 800px){
+    .ui {
+        margin: 100px 0;
+    }
+    .uiProjects, .webApp {
+        flex-direction: row;
+        justify-content: space-between;
+    }
+    .project1, .project2, .project3, .project4{
+        flex-basis: 48%;
+        justify-content: space-around;
+        height: 400px;
+    }
+    .ui h1 {
+        font-size: 5em;
+    }
+    .webApp p,.ui p {
+        opacity: 0;
+    }
+    .webApp span,.ui span {
+        opacity: 0;
+    }
+    .project1 div, .project2 div, .project3 div, .project4 div {
+        opacity: 0;
+        height: 0;
+        top: 100%;
+        background-color: rgba(0, 0, 0, 0.616);
+    }
+}

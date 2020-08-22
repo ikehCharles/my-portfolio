@@ -1,0 +1,179 @@
+.header {
+    display: flex;
+    position: fixed;
+    z-index: 100;
+    height: 60px;
+    width: 100vw;
+    padding-top: 10px;
+    justify-content: space-between;
+    top: 0;
+    transition: .6s all;
+}
+.addBg {
+    background-color: #ffffff7a;
+}
+.navbarHeader {
+    position: relative;
+    margin-left: 10px;
+    width: 40px;
+    height: 40px;
+    cursor: pointer;
+}
+.navbarHeaderImg {
+    width: 100%;
+    height: 100%;
+}
+.menuButton >p {
+    display: inline;
+    font-size: 10px;
+    font-weight: 600;
+}
+.menuButton {
+    width: 25px;
+    position: relative;
+    margin-right: 25px;
+    cursor: pointer;
+}
+.menuButtonLine {
+    margin: 3px 0;
+    height: 1px;
+    background-color: black;
+    transition: .4s all;
+}
+.menuButtonA:hover {
+    transition: 1s all;
+}
+.menuButtonA:hover> .menuButtonLine1 {
+    transform: translate(15px, 0);
+}
+.menuButtonA:hover> .menuButtonLine3 {
+    transform: translate(-15px,0);
+}
+.menuButtonLine1 {
+    width: 10px;
+}
+.menuButtonLine3 {
+    width: 10px;
+    margin-left: auto
+}
+.show{
+    transition: 0.9s all;
+}
+.show>.menuButtonLine1 {
+    transform: rotate(45deg) translate(5px, -4px);
+    width: 15px !important;
+    background-color: #222222;
+}
+.show>.menuButtonLine2 {
+    opacity: 0;
+
+}
+.show>.menuButtonLine3 {
+    transform: rotate(-45deg) translate(2px, -8px);
+    width: 15px !important;
+}
+.menuHide {
+    transition: 0.7s all;
+    transform: translateY(-2000px);
+}
+.menuShow {
+    transition: 0.8s all;
+    visibility: visible;
+}
+.menuHideBottom {
+    transform: translateY(2000px);
+}
+.menu {
+    width: 100vw;
+    height: 100vh;
+    background-image: linear-gradient(to bottom,#525151e3,#525151); 
+    position: fixed;
+    top: 0;
+    z-index: 10;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.menu > div.menuItem {
+    height: 250px;
+    margin-top: 80px;
+    transition: 5s all;
+}
+.menu > div > ul {
+    padding: 0;
+}
+.menu > div > ul > li {
+    margin: 34px 0;
+    font-size: 24px;
+    letter-spacing: 2px;
+}
+
+.menuItemSlide > ul > li,.menuItemSlide >h4 {
+    opacity: 0;
+}
+ .menuItemSlideDown >h4 {
+    opacity: 1;
+    transition: .2s 0.6s all;
+}
+.menuItemSlideDown > ul > li:nth-child(1){
+    transition: .4s 0.7s all;
+}
+.menuItemSlideDown > ul > li:nth-child(2){
+    transition: .4s 0.8s all;
+}
+.menuItemSlideDown > ul > li:nth-child(3){
+    transition: .4s 0.9s all;
+}
+.menuItemSlideDown > ul > li:nth-child(4){
+    transition: .4s 1.0s all;
+}
+.menuItemSlideDown > ul > li:nth-child(5){
+    transition: .4s 1.1s all;
+}
+.menuItemSlideDown > ul > li:nth-child(6){
+    transition: .4s 1.2s all;
+}
+.menuFooter {
+    top:0;
+    padding-bottom: 10px;
+    color: rgba(0, 0, 0, 0.65);
+    font-size: 13px;
+    height: 20px;
+}
+
+@media(min-width: 800px){
+    .header{
+        padding: 10px 10px;
+        padding-top: 30px;
+        height: 80px;
+    }
+    .menu > div.menuItem {
+        margin-top: 100px;
+    }
+    .menu > div > ul > li {
+        margin: 38px 0;
+    }
+    .menuButton {
+        right: 20px;
+    }
+    
+}
+@media(min-height: 667px){
+    .menu > div.menuItem {
+        margin-top: 120px;
+    }
+}
+@media(min-height: 812px){
+    .menu > div.menuItem {
+        margin-top: 160px;
+    }
+}
+@media(min-height: 1024px){
+    .menu > div > ul > li {
+        margin: 50px 0;
+    }
+    .menu > div.menuItem {
+        margin-top: 200px;
+    }
+}
