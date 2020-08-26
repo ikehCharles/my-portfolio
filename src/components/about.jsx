@@ -30,7 +30,7 @@ export default function About() {
             </div>
             <div className={aboutStyles.imgCollection2}>
                 <div className={aboutImgWrapper3}>
-                    <img src={model3} alt="" />
+                    <img src={model3} alt="model 1 illustration" />
                 </div>
                 <div className={aboutInfo}>
                     <p>"My passion for simple and elegant designs inspired my journey in web designs and interfaces. I aim to offer professional services with a bit extra.
@@ -38,7 +38,7 @@ export default function About() {
                         </p>
                     <div className={aboutStyles.imgCollection}>
                         <div className={aboutStyles.imgWrapper2}>
-                            <img src={model2} alt="" />
+                            <img src={model2} alt="model 2 illustration" />
                         </div>
                     </div>
                 </div>

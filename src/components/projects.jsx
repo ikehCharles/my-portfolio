@@ -14,13 +14,13 @@ export default function Projects() {
                 <h4>UI &#38; Product Design</h4>
                 <div className={projectsStyles.uiProjects}>
                     <a href={mockUp1} className={projectsStyles.project1}>
-                        <img src={mockUp1} alt=""/>
+                        <img src={mockUp1} alt="Music Streaming App UI, click to view Full"/>
                         <div></div>
                         <span>2020</span>
                         <p>Music Streaming App Concept</p>
                     </a>
                     <a href={mockUp2} className={projectsStyles.project2}>
-                        <img src={mockUp2} alt=""/>
+                        <img src={mockUp2} alt="BBC Redesign Web Application UI, click to view Full"/>
                         <div></div>
                         <span>2020</span>
                         <p>BBC Redesign Web/App Concept</p>
@@ -32,14 +32,14 @@ export default function Projects() {
                 <h4>Web &#38; Mobile Designs</h4>
                 <div className={projectsStyles.webApp}>
                     <a href="https://ikehcharles.github.io/firstReact" className={projectsStyles.project3}>
-                    <img src={mockUp3} alt=""/>
+                    <img src={mockUp3} alt="Restaurant/Food Delivery website, Click to go to website"/>
                     <div></div>
                     <span>2020</span>
                     <p>Restaurant/Food Delivery WebApp</p>
                     <i>NB: This is a personal project and therefore serve as template rather than a fully functional website</i>
                     </a>
                     <a href="https://elpapi.herokuapp.com" className={projectsStyles.project4}>
-                    <img src={mockUp4} alt=""/>
+                    <img src={mockUp4} alt="Award/Nominee website, Click to go to website"/>
                     <div></div>
                     <span>2020</span>
                     <p>Award/Nominee WebApp</p>

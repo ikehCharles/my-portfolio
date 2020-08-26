@@ -7,7 +7,7 @@ export default function Footer() {
         <React.Fragment>
             <div className={footerStyles.footer}>
             <a href="#landing">
-                <img src={CharlesLogoSA} alt=""/>
+                <img src={CharlesLogoSA} alt="portfolio logo"/>
             </a>
             <p>
             &copy; 2020 Ikeh Charles. <br/>

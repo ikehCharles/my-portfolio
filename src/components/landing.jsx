@@ -26,7 +26,7 @@ export default function Landing() {
                 </div>
                 <div className={landingStyles.col2}>
                     <div className={landingStyles.imgWrapper}>
-                        <img src={ikehImg} alt="" />
+                        <img src={ikehImg} alt="Myself" />
                         <div className={landingStyles.imgCover}></div>
                     </div>
                 </div>
