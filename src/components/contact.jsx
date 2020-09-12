@@ -29,9 +29,9 @@ export default function Contact() {
                 </div>
                 <div className={contactStyles.availability}>
                     <h2>Current Availability</h2>
-                    <p>I usually work on several project but I will be honored to discuss new opportunities.
-                        Let's get in touch!
+                    <p>I work on several personal projects and currently building websites for <b>free</b> in exchange for testimonial
                     </p>
+                    <i>Terms & Conditions Apply</i>
                 </div>
             </div>
         </React.Fragment>

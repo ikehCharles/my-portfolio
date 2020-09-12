@@ -1,6 +1,6 @@
 import React from 'react';
 import classname from 'classname';
-import ikehImg from '../assets/logo.png'
+import ikehImg from '../assets/logo.jpg'
 import landingStyles from './landing.module.css'
 
 export default function Landing() {
