@@ -11,7 +11,7 @@ export default function Contact() {
             <div>
                 <p className={contactStyles.socialIcon}> 
                 <a href="https://wa.me/message/CCTD7MJDCZFLC1"><i className={className('fab', 'fa-whatsapp', contactStyles.whatsapp)}></i></a>
-                <a href="https://twitter.com/ikehcharlesdev ?s=09"><i className={className('fab', 'fa-twitter', contactStyles.twitter)}></i></a>
+                <a href="https://twitter.com/ikehcharlesdev?s=09"><i className={className('fab', 'fa-twitter', contactStyles.twitter)}></i></a>
                 <a href="https://behance.net/charlesikeh"><i className={className('fab', 'fa-behance', contactStyles.behance)}></i></a>
                 <a href="https://instagram.com/ikehCharlesDev"><i className={className('fab', 'fa-instagram', contactStyles.instagram)}></i></a>
                 </p>
@@ -23,7 +23,7 @@ export default function Contact() {
                         over email, especially since we may be a few time zones away.
                     </p>
                     <div>
-                        <p>Email: <a href='mailto:ikehcharles.ci@gmail.com'> ikehcharlesci@gmail.com</a></p>
+                        <p>Email: <a href='mailto:ikehcharlesdev@gmail.com'> ikehcharlesdev@gmail.com</a></p>
                         <p>Phone: +234-90-351-08713</p>
                     </div>
                 </div>

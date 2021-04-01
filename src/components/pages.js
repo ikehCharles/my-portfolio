@@ -21,6 +21,6 @@ export const pages = [
     },
     {
         title: 'Twitter',
-        url: 'https://twitter.com/ikehCharlesDev?s=09'
+        url: 'https://twitter.com/ikehcharlesdev?s=09'
     }
 ]

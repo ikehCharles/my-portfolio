@@ -64,7 +64,7 @@ export default function Projects() {
                 </div>
                 <h4>Web &#38; Mobile Designs</h4>
                 <div className={classname(projectsStyles.webApp)}>
-                    <a href="https://polar-cove-67265.herokuapp.com/student/dashboard" className={classname(showWeb1, projectsStyles.project3)}>
+                    <a href="https://polar-cove-67265.herokuapp.com" className={classname(showWeb1, projectsStyles.project3)}>
                         {/* <img src={()=>mockUp3} alt="Restaurant/Food Delivery website, Click to go to website"/> */}
                         <div></div>
                         <span>2020</span>
@@ -76,7 +76,6 @@ export default function Projects() {
                         <div></div>
                         <span>2020</span>
                         <p>Information and Technology WebApp</p>
-                        <i>NB: This is a personal project and therefore serve as template rather than a fully functional website</i>
                     </a>
                 </div>
                 <div className={projectsStyles.moreOnGithub}>
