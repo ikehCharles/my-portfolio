@@ -68,7 +68,7 @@ a:hover, a:focus, a:active, a.active {
 .hideIncImage {
   display: none;
 }
-#project, #about, #contact {
+#project, #contact {
   padding: 15px;
 }
 @media(min-width: 768px){
@@ -76,7 +76,7 @@ a:hover, a:focus, a:active, a.active {
     margin: 20px 0;
     transition: 3s all;
   }
-  #project, #about {
+  #project {
     padding: 20px;
   }
   #emailMe {

@@ -64,18 +64,18 @@ export default function Projects() {
                 </div>
                 <h4>Web &#38; Mobile Designs</h4>
                 <div className={classname(projectsStyles.webApp)}>
-                    <a href="https://ikehcharles.github.io/firstReact" className={classname(showWeb1, projectsStyles.project3)}>
+                    <a href="https://polar-cove-67265.herokuapp.com/student/dashboard" className={classname(showWeb1, projectsStyles.project3)}>
                         {/* <img src={()=>mockUp3} alt="Restaurant/Food Delivery website, Click to go to website"/> */}
                         <div></div>
                         <span>2020</span>
-                        <p>Restaurant/Food Delivery WebApp</p>
+                        <p>E-Learning WebApp</p>
                         <i>NB: This is a personal project and therefore serve as template rather than a fully functional website</i>
                     </a>
-                    <a href="https://elpapi.herokuapp.com" className={classname(showWeb2, projectsStyles.project4)}>
+                    <a href="https://drimithq.com" className={classname(showWeb2, projectsStyles.project4)}>
                         {/* <img src={mockUp4} alt="Award/Nominee website, Click to go to website" /> */}
                         <div></div>
                         <span>2020</span>
-                        <p>Award/Nominee WebApp</p>
+                        <p>Information and Technology WebApp</p>
                         <i>NB: This is a personal project and therefore serve as template rather than a fully functional website</i>
                     </a>
                 </div>
