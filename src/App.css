@@ -21,7 +21,7 @@
 .App {
   text-align: center;
   font-family: 'Roboto', sans-serif;
-  overflow: hidden;
+  /* overflow: hidden; */
 }
 * {
   box-sizing: border-box;

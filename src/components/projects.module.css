@@ -63,6 +63,30 @@
 .project3:hover i, .project4:hover i {
     opacity: 1;
 }
+.project3, .project4 {
+    transition: 5s all;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.web1 {
+    background-image: url(../assets/Web\ 1366\ –\ 1.svg);
+}
+.web2 {
+    background-image: url(../assets/Web\ 1366\ –\ 2.svg);
+}
+.web3 {
+    background-image: url(../assets/Web\ 1366\ –\ 3.svg);
+}
+.web11 {
+    background-image: url(../assets/web1.svg);
+}
+.web12 {
+    background-image: url(../assets/web2.svg);
+}
+.web13 {
+    background-image: url(../assets/web3.svg);
+}
 
 .moreOnGithub, .moreOnBehance {
     margin-top: 15px;
@@ -146,3 +170,4 @@
         opacity: 0;
     }
 }
+

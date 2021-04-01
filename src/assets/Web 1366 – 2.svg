@@ -1,0 +1,187 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1366" height="768" viewBox="0 0 1366 768">
+  <defs>
+    <filter id="Rectangle_16" x="70" y="10" width="393" height="714" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood flood-opacity="0.431"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_22" x="949" y="10" width="393" height="714" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-2"/>
+      <feFlood flood-opacity="0.431"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_19" x="518" y="10" width="393" height="714" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-3"/>
+      <feFlood flood-opacity="0.431"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_13" data-name="Rectangle 13" width="324" height="630" transform="translate(0 -0.333)"/>
+    </clipPath>
+    <filter id="Rectangle_11" x="598" y="486" width="230" height="42" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-4"/>
+      <feFlood flood-opacity="0.412"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path-2">
+      <rect id="Rectangle_26" data-name="Rectangle 26" width="321" height="601"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <rect id="Rectangle_32" data-name="Rectangle 32" width="331" height="615"/>
+    </clipPath>
+    <filter id="Rectangle_1" x="98" y="470" width="122" height="53" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-5"/>
+      <feFlood flood-opacity="0.31"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_1-2" x="200" y="470" width="123" height="53" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-6"/>
+      <feFlood flood-opacity="0.31"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-Web_1366_2">
+      <rect width="1366" height="768"/>
+    </clipPath>
+  </defs>
+  <g id="Web_1366_2" data-name="Web 1366 – 2" clip-path="url(#clip-Web_1366_2)">
+    <rect width="1366" height="768" fill="#fff"/>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_16)">
+      <g id="Rectangle_16-2" data-name="Rectangle 16" transform="translate(85 22)" stroke="#707070" stroke-width="1">
+        <rect width="363" height="684" rx="36" stroke="none"/>
+        <rect x="0.5" y="0.5" width="362" height="683" rx="35.5" fill="none"/>
+      </g>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_22)">
+      <g id="Rectangle_22-2" data-name="Rectangle 22" transform="translate(964 22)" stroke="#707070" stroke-width="1">
+        <rect width="363" height="684" rx="6" stroke="none"/>
+        <rect x="0.5" y="0.5" width="362" height="683" rx="5.5" fill="none"/>
+      </g>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_19)">
+      <g id="Rectangle_19-2" data-name="Rectangle 19" transform="translate(533 22)" stroke="#707070" stroke-width="1">
+        <rect width="363" height="684" rx="20" stroke="none"/>
+        <rect x="0.5" y="0.5" width="362" height="683" rx="19.5" fill="none"/>
+      </g>
+    </g>
+    <g id="Rectangle_17" data-name="Rectangle 17" transform="translate(93 47)" fill="#fbf9ff" stroke="#707070" stroke-width="1">
+      <rect width="347" height="631" rx="20" stroke="none"/>
+      <rect x="0.5" y="0.5" width="346" height="630" rx="19.5" fill="none"/>
+    </g>
+    <g id="Rectangle_17-2" data-name="Rectangle 17" transform="translate(972 47)" fill="#fbf9ff" stroke="#707070" stroke-width="1">
+      <rect width="347" height="631" stroke="none"/>
+      <rect x="0.5" y="0.5" width="346" height="630" fill="none"/>
+    </g>
+    <g id="Group_9" data-name="Group 9" transform="translate(0 1.333)">
+      <g id="Rectangle_18" data-name="Rectangle 18" transform="translate(538 25.667)" fill="#fbf9ff" stroke="#707070" stroke-width="1">
+        <rect width="352" height="674" rx="20" stroke="none"/>
+        <rect x="0.5" y="0.5" width="351" height="673" rx="19.5" fill="none"/>
+      </g>
+      <g id="iPhone_6_7_8_2" data-name="iPhone 6/7/8 – 2" transform="translate(551 45)" clip-path="url(#clip-path)">
+        <rect id="Rectangle_12" data-name="Rectangle 12" width="324" height="630" transform="translate(0 -0.333)" fill="#fbf9ff"/>
+        <g id="Group_6" data-name="Group 6" transform="translate(100 21.884)">
+          <text id="E-LEARNING" transform="translate(0 20.783)" fill="#772828" font-size="19" font-family="SegoeUI-SemiboldItalic, Segoe UI" font-weight="600" font-style="italic"><tspan x="0" y="0">E-LEARNING</tspan></text>
+        </g>
+        <g id="Group_7" data-name="Group 7" transform="translate(12.672 22)">
+          <line id="Line_2" data-name="Line 2" x2="14.669" y2="16.005" fill="none" stroke="#772828" stroke-width="1.5"/>
+          <line id="Line_2-2" data-name="Line 2" x2="14.669" y2="16.005" transform="translate(0 7.767)" fill="none" stroke="#772828" stroke-width="1.5"/>
+          <line id="Line_2-3" data-name="Line 2" x2="14.669" y2="16.005" transform="translate(0 15.534)" fill="none" stroke="#772828" stroke-width="1.5"/>
+        </g>
+        <rect id="Rectangle_4" data-name="Rectangle 4" width="237" height="306" rx="4" transform="translate(44 193.667)" fill="#fff"/>
+        <text id="STUDENT_LOGIN_" data-name="STUDENT (LOGIN)" transform="translate(56 236.667)" fill="#010101" font-size="14" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">STUDENT (LOGIN)</tspan></text>
+        <text id="Kindly_fill_out_the_form_to_proceed" data-name="Kindly fill out the form to proceed" transform="translate(56 259.667)" fill="#010101" font-size="10" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Kindly fill out the form to proceed</tspan></text>
+        <rect id="Rectangle_8" data-name="Rectangle 8" width="212" height="67" transform="translate(56 285.667)" fill="beige"/>
+        <rect id="Rectangle_9" data-name="Rectangle 9" width="212" height="68" transform="translate(56 361.667)" fill="beige"/>
+        <text id="Matric_Number" data-name="Matric Number" transform="translate(65 306.667)" fill="#010101" font-size="10" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Matric Number</tspan></text>
+        <text id="Password" transform="translate(65 383.667)" fill="#010101" font-size="10" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Password</tspan></text>
+        <g id="Rectangle_6" data-name="Rectangle 6" transform="translate(65 312.667)" fill="#fbf9ff" stroke="#030303" stroke-width="0.5">
+          <rect width="192" height="27" rx="4" stroke="none"/>
+          <rect x="0.25" y="0.25" width="191.5" height="26.5" rx="3.75" fill="none"/>
+        </g>
+        <g id="Rectangle_10" data-name="Rectangle 10" transform="translate(65 390.667)" fill="#fbf9ff" stroke="#030303" stroke-width="0.5">
+          <rect width="192" height="27" rx="4" stroke="none"/>
+          <rect x="0.25" y="0.25" width="191.5" height="26.5" rx="3.75" fill="none"/>
+        </g>
+        <text id="Your_matric_number" data-name="Your matric number" transform="translate(76 330.667)" fill="#010101" font-size="10" font-family="SegoeUI, Segoe UI" opacity="0.6"><tspan x="0" y="0">Your matric number</tspan></text>
+        <text id="Password-2" data-name="Password" transform="translate(76 406.667)" fill="#010101" font-size="10" font-family="SegoeUI, Segoe UI" opacity="0.6"><tspan x="0" y="0">Password</tspan></text>
+        <g transform="matrix(1, 0, 0, 1, -551, -46.33)" filter="url(#Rectangle_11)">
+          <g id="Rectangle_11-2" data-name="Rectangle 11" transform="translate(607 492)" fill="#772828" stroke="#707070" stroke-width="1">
+            <rect width="212" height="24" rx="4" stroke="none"/>
+            <rect x="0.5" y="0.5" width="211" height="23" rx="3.5" fill="none"/>
+          </g>
+        </g>
+        <text id="SUBMIT" transform="translate(140 460.667)" fill="#fff" font-size="10" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600" letter-spacing="0.04em"><tspan x="0" y="0">SUBMIT</tspan></text>
+      </g>
+    </g>
+    <g id="Union_1" data-name="Union 1" transform="translate(628 880)">
+      <path d="M 157.99951171875 -825.5003051757813 L 15.00029182434082 -825.5003051757813 C 11.76242256164551 -825.5003051757813 8.700118064880371 -826.5436401367188 6.14442253112793 -828.5175170898438 C 3.668118238449097 -830.4301147460938 1.848683476448059 -833.1347045898438 1.02122688293457 -836.1331176757813 L 0.9199660420417786 -836.5001220703125 L 0.5392486453056335 -836.5001220703125 L 0.5000095367431641 -836.5001220703125 L 0.5000095367431641 -839.9996948242188 L 0.5000095367431641 -843.0003051757813 L 0.5000095367431641 -857.4996948242188 L 15.00029182434082 -857.4996948242188 L 157.99951171875 -857.4996948242188 L 172.4998168945313 -857.4996948242188 L 172.4998168945313 -836.5001220703125 L 172.4605560302734 -836.5001220703125 L 172.079833984375 -836.5001220703125 L 171.9785766601563 -836.1331176757813 C 171.151123046875 -833.1346435546875 169.3316650390625 -830.4300537109375 166.8553771972656 -828.5175170898438 C 164.2996826171875 -826.5436401367188 161.2373809814453 -825.5003051757813 157.99951171875 -825.5003051757813 Z" stroke="none"/>
+      <path d="M 157.9994964599609 -826.0003051757813 C 161.1257629394531 -826.0003051757813 164.0823974609375 -827.007568359375 166.5497589111328 -828.9132080078125 C 168.94091796875 -830.7600708007813 170.6977386474609 -833.371337890625 171.4965667724609 -836.26611328125 L 171.6991119384766 -837.0001220703125 L 171.9998168945313 -837.0001220703125 L 171.9998168945313 -856.9996948242188 L 157.9994964599609 -856.9996948242188 L 15.00030994415283 -856.9996948242188 L 0.9999917149543762 -856.9996948242188 L 0.9999917149543762 -843.0003051757813 L 0.9999917149543762 -839.9996948242188 L 0.9999917149543762 -837.0001220703125 L 1.300650835037231 -837.0001220703125 L 1.50321900844574 -836.26611328125 C 2.302059888839722 -833.371337890625 4.058877944946289 -830.7600708007813 6.450037002563477 -828.9132080078125 C 8.917423248291016 -827.007568359375 11.87405967712402 -826.0003051757813 15.00030994415283 -826.0003051757813 L 157.9994964599609 -826.0003051757813 M 157.9994964599609 -825.0003051757813 L 15.00030994415283 -825.0003051757813 C 8.100764274597168 -825.0003051757813 2.289491653442383 -829.65771484375 0.5392417311668396 -836.0001220703125 L -8.273037565231789e-06 -836.0001220703125 L -8.273037565231789e-06 -839.9996948242188 L -8.273037565231789e-06 -843.0003051757813 L -8.273037565231789e-06 -857.9996948242188 L 15.00030994415283 -857.9996948242188 L 157.9994964599609 -857.9996948242188 L 172.9998168945313 -857.9996948242188 L 172.9998168945313 -836.0001220703125 L 172.4605407714844 -836.0001220703125 C 170.7103118896484 -829.65771484375 164.8990631103516 -825.0003051757813 157.9994964599609 -825.0003051757813 Z" stroke="none" fill="#707070"/>
+    </g>
+    <line id="Line_3" data-name="Line 3" x2="124" transform="translate(652.5 690.5)" fill="none" stroke="#000" stroke-width="2"/>
+    <g id="iPhone_6_7_8_3" data-name="iPhone 6/7/8 – 3" transform="translate(985 55)" clip-path="url(#clip-path-2)">
+      <rect id="Rectangle_25" data-name="Rectangle 25" width="321" height="601" fill="#fbf9ff"/>
+      <g id="Group_6-2" data-name="Group 6" transform="translate(189 21.051)">
+        <text id="E-LEARNING-2" data-name="E-LEARNING" transform="translate(0 22.949)" fill="#772828" font-size="21" font-family="SegoeUI-SemiboldItalic, Segoe UI" font-weight="600" font-style="italic"><tspan x="0" y="0">E-LEARNING</tspan></text>
+      </g>
+      <g id="Group_7-2" data-name="Group 7" transform="translate(12.406 20.262)">
+        <line id="Line_2-4" data-name="Line 2" x2="14.545" y2="15.309" fill="none" stroke="#772828" stroke-width="1.5"/>
+        <line id="Line_2-5" data-name="Line 2" x2="14.545" y2="15.309" transform="translate(0 7.43)" fill="none" stroke="#772828" stroke-width="1.5"/>
+        <line id="Line_2-6" data-name="Line 2" x2="14.545" y2="15.309" transform="translate(0 14.859)" fill="none" stroke="#772828" stroke-width="1.5"/>
+      </g>
+      <text id="My_Courses" data-name="My Courses" transform="translate(13 242)" font-size="19" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" letter-spacing="0.04em"><tspan x="0" y="0">My Courses</tspan></text>
+      <line id="Line_4" data-name="Line 4" x2="298.603" transform="translate(12.406 256.206)" fill="none" stroke="#000" stroke-width="1" opacity="0.3"/>
+      <g id="Rectangle_23" data-name="Rectangle 23" transform="translate(13 265)" fill="#772828" stroke="#707070" stroke-width="1">
+        <rect width="298" height="31" stroke="none"/>
+        <rect x="0.5" y="0.5" width="297" height="30" fill="none"/>
+      </g>
+      <g id="Rectangle_24" data-name="Rectangle 24" transform="translate(13 301)" fill="#772828" stroke="#707070" stroke-width="1">
+        <rect width="298" height="29" stroke="none"/>
+        <rect x="0.5" y="0.5" width="297" height="28" fill="none"/>
+      </g>
+      <text id="Age322_Agricultural_Machinery_" data-name="Age322 (Agricultural Machinery)" transform="translate(21 283)" fill="#fff" font-size="13" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600" letter-spacing="0.04em"><tspan x="0" y="0">Age322 (Agricultural Machinery)</tspan></text>
+      <text id="Age323_Engineering_Analysis_" data-name="Age323 (Engineering Analysis)" transform="translate(21 318)" fill="#fff" font-size="13" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600" letter-spacing="0.04em"><tspan x="0" y="0">Age323 (Engineering Analysis)</tspan></text>
+    </g>
+    <g id="iPhone_6_7_8_1" data-name="iPhone 6/7/8 – 1" transform="translate(101 55)" clip-path="url(#clip-path-3)">
+      <rect id="Rectangle_31" data-name="Rectangle 31" width="331" height="615" fill="#fbf9ff"/>
+      <text id="LEARNING_NEVER_STOPS." data-name="LEARNING  NEVER STOPS." transform="translate(13 232)" fill="#010101" font-size="34" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">LEARNING </tspan><tspan x="0" y="39">NEVER</tspan><tspan x="0" y="78">STOPS.</tspan></text>
+      <text id="STAY_CURIOUS." data-name="STAY  CURIOUS." transform="translate(12 363)" fill="#010101" font-size="34" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" opacity="0.7"><tspan x="0" y="0">STAY </tspan><tspan x="0" y="39">CURIOUS.</tspan></text>
+      <g id="Group_4" data-name="Group 4" transform="translate(12 430.187)">
+        <g transform="matrix(1, 0, 0, 1, -113, -485.19)" filter="url(#Rectangle_1)">
+          <g id="Rectangle_1-3" data-name="Rectangle 1" transform="translate(113 485)" fill="#772828" stroke="#707070" stroke-width="1">
+            <rect width="92" height="23" rx="5" stroke="none"/>
+            <rect x="0.5" y="0.5" width="91" height="22" rx="4.5" fill="none"/>
+          </g>
+        </g>
+        <text id="Student" transform="translate(27 14.813)" fill="#fff" font-size="10" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600" letter-spacing="0.04em"><tspan x="0" y="0">Student</tspan></text>
+      </g>
+      <g id="Group_5" data-name="Group 5" transform="translate(114 430.187)">
+        <g transform="matrix(1, 0, 0, 1, -215, -485.19)" filter="url(#Rectangle_1-2)">
+          <g id="Rectangle_1-4" data-name="Rectangle 1" transform="translate(215 485)" fill="#772828" stroke="#707070" stroke-width="1">
+            <rect width="93" height="23" rx="5" stroke="none"/>
+            <rect x="0.5" y="0.5" width="92" height="22" rx="4.5" fill="none"/>
+          </g>
+        </g>
+        <text id="Staff" transform="translate(34 15.813)" fill="#fff" font-size="11" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600" letter-spacing="0.04em"><tspan x="0" y="0">Staff</tspan></text>
+      </g>
+      <g id="Group_6-3" data-name="Group 6" transform="translate(102 19.839)">
+        <text id="E-LEARNING-3" data-name="E-LEARNING" transform="translate(0 23.161)" fill="#772828" font-size="21" font-family="SegoeUI-SemiboldItalic, Segoe UI" font-weight="600" font-style="italic"><tspan x="0" y="0">E-LEARNING</tspan></text>
+      </g>
+      <g id="Group_7-3" data-name="Group 7" transform="translate(12.799 20.737)">
+        <line id="Line_2-7" data-name="Line 2" x2="15.005" y2="15.668" fill="none" stroke="#772828" stroke-width="1.5"/>
+        <line id="Line_2-8" data-name="Line 2" x2="15.005" y2="15.668" transform="translate(0 7.603)" fill="none" stroke="#772828" stroke-width="1.5"/>
+        <line id="Line_2-9" data-name="Line 2" x2="15.005" y2="15.668" transform="translate(0 15.207)" fill="none" stroke="#772828" stroke-width="1.5"/>
+      </g>
+    </g>
+  </g>
+</svg>
