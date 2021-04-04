@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1366" height="768" viewBox="0 0 1366 768">
+  <defs>
+    <clipPath id="clip-Web_1366_3">
+      <rect width="1366" height="768"/>
+    </clipPath>
+  </defs>
+  <g id="Web_1366_3" data-name="Web 1366 – 3" clip-path="url(#clip-Web_1366_3)">
+    <rect width="1366" height="768" fill="#fbf9ff"/>
+    <path id="Union_2" data-name="Union 2" d="M0,768V0H1366V148H403V768Z" fill="rgba(237,237,237,0.8)"/>
+    <text id="E-LEARNING" transform="translate(24 68)" fill="#772828" font-size="30" font-family="SegoeUI-SemiboldItalic, Segoe UI" font-weight="600" font-style="italic"><tspan x="0" y="0">E-LEARNING</tspan></text>
+    <text id="Welcome_User" data-name="Welcome, User" transform="translate(1037 60)" fill="#772828" font-size="20" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Welcome, User</tspan></text>
+    <text id="SIGN_OUT" data-name="SIGN OUT" transform="translate(1216 60)" fill="#772828" font-size="18" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">SIGN OUT</tspan></text>
+    <text id="HOME_ALL_COURSES_MY_COURSES_SUBMISSIONS_PROFILE_COMPLAINTS_HELP_FROM_STAFF" data-name="HOME
+ALL COURSES
+
+MY COURSES
+SUBMISSIONS
+
+PROFILE
+COMPLAINTS
+HELP FROM STAFF" transform="translate(202 269)" fill="#772828" font-size="15" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="-21.998" y="0">HOME</tspan><tspan x="-46.652" y="51">ALL COURSES</tspan><tspan x="0" y="102"></tspan><tspan x="-45.546" y="153">MY COURSES</tspan><tspan x="-48.864" y="204">SUBMISSIONS</tspan><tspan x="0" y="255"></tspan><tspan x="-28.151" y="306">PROFILE</tspan><tspan x="-46.604" y="357">COMPLAINTS</tspan><tspan x="-62.783" y="408">HELP FROM STAFF</tspan></text>
+    <line id="Line_5" data-name="Line 5" x2="357" transform="translate(23.5 366.5)" fill="none" stroke="#000" stroke-width="0.5"/>
+    <line id="Line_6" data-name="Line 6" x2="357" transform="translate(23.5 514.5)" fill="none" stroke="#000" stroke-width="0.5"/>
+    <text id="My_Courses" data-name="My Courses" transform="translate(433 269)" font-size="30" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" letter-spacing="0.04em"><tspan x="0" y="0">My Courses</tspan></text>
+    <line id="Line_7" data-name="Line 7" x2="891.5" transform="translate(432 284.5)" fill="none" stroke="#000" stroke-width="1" opacity="0.3"/>
+    <g id="Rectangle_29" data-name="Rectangle 29" transform="translate(433 295)" fill="#772828" stroke="#707070" stroke-width="1">
+      <rect width="891" height="33" stroke="none"/>
+      <rect x="0.5" y="0.5" width="890" height="32" fill="none"/>
+    </g>
+    <g id="Rectangle_30" data-name="Rectangle 30" transform="translate(433 334)" fill="#772828" stroke="#707070" stroke-width="1">
+      <rect width="891" height="33" stroke="none"/>
+      <rect x="0.5" y="0.5" width="890" height="32" fill="none"/>
+    </g>
+    <text id="Age322_Agricultural_Machinery_" data-name="Age322 (Agricultural Machinery)" transform="translate(443 316)" fill="#fff" font-size="18" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600" letter-spacing="0.04em"><tspan x="0" y="0">Age322 (Agricultural Machinery)</tspan></text>
+    <text id="Age323_Engineering_Analysis_" data-name="Age323 (Engineering Analysis)" transform="translate(443 355)" fill="#fff" font-size="18" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600" letter-spacing="0.04em"><tspan x="0" y="0">Age323 (Engineering Analysis)</tspan></text>
+  </g>
+</svg>
